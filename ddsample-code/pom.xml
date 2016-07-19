@@ -16,7 +16,9 @@
     </site>
   </distributionManagement>
   <ciManagement />
-  
+
+  <!--comment push changelog-->
+
   <developers>
     <developer>
       <id>eric_evans</id>
